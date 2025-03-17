@@ -1,0 +1,13 @@
+PORT=5000
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=yourpassword
+DB_NAME=auth_db
+JWT_SECRET=your_jwt_secret
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+FACEBOOK_CLIENT_ID=your_facebook_client_id
+FACEBOOK_CLIENT_SECRET=your_facebook_client_secret
+CLIENT_URL=https://projext-session-server-a9643bc1be6b.herokuapp.com
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-email-password
